@@ -1,16 +1,4 @@
-## Horario 7mo semestre
-
-HORA	Lunes	Martes	Miercoles	Jueves	Viernes
-
-1:00  ABD
-
-2:00 	-      -        -         -       -
-
-3:00 	Gestion de Proyectos de Software	
-
-4:00 	Conmutacion y Enrutamiento	
-
-5:00	Sistemas Programables	            -
+   -
 
 # El Fabotaku, estudiante de ingenieria en sistemas computacionales, 24.
 Me gusta:
