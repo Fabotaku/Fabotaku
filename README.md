@@ -1,5 +1,3 @@
-   -
-
 # El Fabotaku, estudiante de ingenieria en sistemas computacionales, 24.
 Me gusta:
 * La tecnologia
