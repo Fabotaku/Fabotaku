@@ -6,7 +6,7 @@ Me gusta:
 
 En cuanto a la programacion me llama la atencion (actualmente) el desarrollo movil
 
-Actualmente conozco lenguajes como C#, Python, Dart.
+Actualmente conozco C#, Python, Dart, JavaScript, HTML-CSS.
 
 
 <!--
