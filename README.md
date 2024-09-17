@@ -1,12 +1,12 @@
-# El Fabotaku, estudiante de ingenieria en sistemas computacionales, 25.
+# El Fabotaku, Ingeniero en sistemas computacionales, 26.
 Me gusta:
 * La tecnologia
 * Jugar videojuegos y ver anime/leer manga
-* Soy el fan mas grande de Bad Bunny
+* Soy el fan mas grande de Bad Bunny y de One piece
 
 
 
-Actualmente conozco C#, Python, Dart, JavaScript, HTML-CSS.
+Actualmente me dedico a TechOps pero me apasiona el desarrollo web con tecnologías como React o Angular.
 
 
 <!--
